@@ -1,0 +1,18 @@
+#home::before {
+    content: "";
+    position: absolute;
+    background: url(../img/bg.jpg) no-repeat center center/cover;
+    height: 780px;
+    width: 100%;
+    z-index: -1;
+    opacity: 1;
+    background-size: auto;
+}
+
+#navbar {
+    /* display: flex; */
+    /* align-items: center; */
+    /* border: 2px solid red; */
+    /* margin: -15px 0px; */
+    background-color: transparent;
+}

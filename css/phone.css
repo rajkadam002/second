@@ -1,0 +1,53 @@
+/* Navigation */
+
+#navbar{
+    flex-direction: column;
+}
+
+/* Home */
+
+#home{
+    height: 268px;
+    flex-direction: column;
+}
+#home::before{
+    height: 480px;
+}
+
+#home p{
+    font-size: 13px;
+}
+/* #home{
+
+}*/
+
+ #services{
+    flex-direction: column;
+
+} 
+#services .box{
+    margin: 8px;
+
+}
+
+/* Client Section */
+#clients{
+    overflow: hidden;
+}
+
+
+
+
+/* body{
+    background-color: aqua;
+    overflow: hidden; 
+} */
+#navbar{
+    margin: 0px 0px;
+}
+
+/* Utality Classes */
+
+.h-primary{
+    font-size: 26px;
+}
